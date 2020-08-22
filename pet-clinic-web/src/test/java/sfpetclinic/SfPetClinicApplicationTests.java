@@ -1,4 +1,4 @@
-package jrodeud.springframework.sfpet.clinic;
+package sfpetclinic;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

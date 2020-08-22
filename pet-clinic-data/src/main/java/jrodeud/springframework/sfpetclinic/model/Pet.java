@@ -1,4 +1,4 @@
-package jrodeud.springframework.sfpet.clinic.model;
+package jrodeud.springframework.sfpetclinic.model;
 
 import java.time.LocalDate;
 

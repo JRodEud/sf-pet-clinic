@@ -1,7 +1,7 @@
 # Read Me First
 The following was discovered as part of building this project:
 
-* The original package name 'jrodeud.springframework.sf-pet- clinic' is invalid and this project uses 'jrodeud.springframework.sfpet.clinic' instead.
+* The original package name 'jrodeud.springframework.sf-pet- clinic' is invalid and this project uses 'jrodeud.springframework.sfpetclinic.clinic' instead.
 
 # Getting Started
 
